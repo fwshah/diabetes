@@ -1,0 +1,82 @@
+2025-07-28 21:22:30,965:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-28 21:22:30,966:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-28 21:22:30,966:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-28 21:22:30,966:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-28 21:22:32,752:INFO:Initializing load_model()
+2025-07-28 21:22:32,753:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 23:23:34,167:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-28 23:23:34,167:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-28 23:23:34,168:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-28 23:23:34,168:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-28 23:23:35,984:INFO:Initializing load_model()
+2025-07-28 23:23:35,984:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 23:23:42,815:INFO:Initializing load_model()
+2025-07-28 23:23:42,816:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 23:23:42,947:INFO:Initializing predict_model()
+2025-07-28 23:23:42,948:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001959631F3A0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Pregnancies', 'Glucose',
+                                             'BloodPressure', 'SkinThickness',
+                                             'Insulin', 'BMI',
+                                             'DiabetesPedigreeFunction',
+                                             'Age'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 RandomForestClassifier(bootstrap=False, class_weight={},
+                                        criterion='entropy', max_depth=5,
+                                        max_features=1.0,
+                                        min_impurity_decrease=0.0002,
+                                        min_samples_leaf=5,
+                                        min_samples_split=10, n_estimators=150,
+                                        n_jobs=-1, random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000195964C04C0>)
+2025-07-28 23:23:42,948:INFO:Checking exceptions
+2025-07-28 23:23:42,948:INFO:Preloading libraries
+2025-07-28 23:23:42,949:INFO:Set up data.
+2025-07-28 23:23:42,964:INFO:Set up index.
+2025-07-28 23:23:45,492:INFO:Initializing load_model()
+2025-07-28 23:23:45,492:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)
+2025-07-28 23:23:45,613:INFO:Initializing predict_model()
+2025-07-28 23:23:45,613:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000195964FF310>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Pregnancies', 'Glucose',
+                                             'BloodPressure', 'SkinThickness',
+                                             'Insulin', 'BMI',
+                                             'DiabetesPedigreeFunction',
+                                             'Age'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 RandomForestClassifier(bootstrap=False, class_weight={},
+                                        criterion='entropy', max_depth=5,
+                                        max_features=1.0,
+                                        min_impurity_decrease=0.0002,
+                                        min_samples_leaf=5,
+                                        min_samples_split=10, n_estimators=150,
+                                        n_jobs=-1, random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000019596616830>)
+2025-07-28 23:23:45,614:INFO:Checking exceptions
+2025-07-28 23:23:45,614:INFO:Preloading libraries
+2025-07-28 23:23:45,614:INFO:Set up data.
+2025-07-28 23:23:45,621:INFO:Set up index.
+2025-07-28 23:29:21,682:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-28 23:29:21,683:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-28 23:29:21,683:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-28 23:29:21,683:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-28 23:29:22,845:INFO:Initializing load_model()
+2025-07-28 23:29:22,846:INFO:load_model(model_name=tuned_rf_diabetes, platform=None, authentication=None, verbose=True)

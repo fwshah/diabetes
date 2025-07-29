@@ -1,7 +1,7 @@
 from pycaret.classification import *
 import streamlit as st
 import pandas as pd
- 
+#  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 model = load_model('tuned_rf_diabetes')
  
 def predict(model, input_df):
